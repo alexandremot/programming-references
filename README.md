@@ -9,3 +9,7 @@
 ###### https://sdtimes.com/continuous-integration/martin-fowler-monolithic-apps-first-microservices-later/
 
 ---
+###### Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk 
+###### https://youtu.be/UdJYuwnqL3I
+
+---
